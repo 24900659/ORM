@@ -50,7 +50,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/c559250d-6513-43b0-9857-a0dcbe784cd4" />
+<img width="1920" height="1080" alt="Screenshot (442)" src="https://github.com/user-attachments/assets/46d8dd4b-a77d-459b-8492-ebce5dd0f38d" />
+
 
 
 ## RESULT
