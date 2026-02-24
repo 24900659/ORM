@@ -5,7 +5,8 @@
 To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM
-<img width="1691" height="794" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/9184d8c9-bdd9-49db-a17b-e27b1d227689" />
+<img width="519" height="774" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/a5ef5d9d-5039-48f1-99d4-2d01d5d026cc" />
+
 
 
 
